@@ -6,7 +6,8 @@ ChillSpot CUCEK is a web-based campus companion application designed for student
 ---
 
 ## 🔐 Login System  
-![Login](screenshots/login.png)
+<img width="1600" height="846" alt="1" src="https://github.com/user-attachments/assets/d418ed50-7a93-493e-99c9-9c3812c817b3" />
+
 
 - Secure authentication using PHP & MySQL  
 - Simple and user-friendly interface  
