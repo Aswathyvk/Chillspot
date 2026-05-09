@@ -31,11 +31,13 @@ ChillSpot CUCEK is a web-based campus companion application designed for student
 ### 🏫 Campus Services  
 
 #### 🍽️ Canteen Module  
-![Canteen](screenshots/canteen.png)
+<img width="969" height="551" alt="image" src="https://github.com/user-attachments/assets/7787623f-976e-464a-9577-0a1aa460dc41" />
+
 - View menu and updates  
 
 #### 📚 Library Module  
-![Library](screenshots/library.png)
+<img width="975" height="553" alt="image" src="https://github.com/user-attachments/assets/5c3fd9f4-2a42-4188-a581-bbaa27fdee26" />
+
 - Access academic resources  
 
 #### 🧪 Laboratories Module  
