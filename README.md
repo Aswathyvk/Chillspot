@@ -41,15 +41,18 @@ ChillSpot CUCEK is a web-based campus companion application designed for student
 - Access academic resources  
 
 #### 🧪 Laboratories Module  
-![Labs](screenshots/labs.png)
+<img width="934" height="545" alt="image" src="https://github.com/user-attachments/assets/932a99e5-a1eb-4828-a8f9-4458d71d7fb1" />
+
 - Lab information and usage  
 
 #### 🏀 Sports Hub  
-![Sports](screenshots/sports.png)
+<img width="953" height="555" alt="image" src="https://github.com/user-attachments/assets/bfdd65b2-317f-4345-97ea-148da015d069" />
+
 - Sports activities and updates  
 
 #### 📅 Events Module  
-![Events](screenshots/events.png)
+<img width="965" height="553" alt="image" src="https://github.com/user-attachments/assets/08987bbb-2d2a-46ee-8553-b1f8a1a4a6ce" />
+
 - Stay updated with campus events  
 
 ---
@@ -57,11 +60,13 @@ ChillSpot CUCEK is a web-based campus companion application designed for student
 ## 🎮 Chill Zone  
 
 #### 🎯 Games (Snake, Pong, Tetris)  
-![Games](screenshots/games.png)
+<img width="929" height="553" alt="image" src="https://github.com/user-attachments/assets/c0f71282-df9d-43fe-9010-d762b75ab01e" />
+
 - Built-in browser games for relaxation  
 
 #### 💬 Chat Module  
-![Chat](screenshots/chat.png)
+<img width="918" height="548" alt="image" src="https://github.com/user-attachments/assets/87b9211c-a556-490d-b234-3e0f103062d3" />
+
 - Real-time communication between students  
 
 ---
@@ -77,8 +82,3 @@ ChillSpot CUCEK is a web-based campus companion application designed for student
 
 ---
 
-## ⚙️ Installation  
-
-```bash
-git clone https://github.com/your-username/chillspot.git
-cd chillspot
